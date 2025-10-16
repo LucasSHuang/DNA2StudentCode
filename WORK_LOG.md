@@ -1,9 +1,9 @@
-Name: YOUR NAME HERE
+Name: Lucas Huang
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date   |  Time  |                                                                                                                                                                                                                                                                                                                                                                                                                       Update |
+|:-------|:------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Oct 16 | 1-1:45 | I thought about how to solve the problem today. I remember that in CS1 the solution was to do a sort of linear search that would iterate though the entire length. Obviously, we can't do that now because the string is just too large to do something like that. I'm trying to think of a way to cut down on some parts of the linear search to make it more efficient, but I haven't been able to think of anything yet.  |
+|        |        |                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
