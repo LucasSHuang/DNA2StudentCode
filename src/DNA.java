@@ -12,9 +12,6 @@
 
 public class DNA {
 
-    /**
-     * TODO: Complete this function, STRCount(), to return longest consecutive run of STR in sequence.
-     */
     public static int STRCount(String sequence, String STR) {
         int longest = 0;
 
