@@ -55,9 +55,7 @@ public class DNA {
                     current = 0;
                     // Move index to second char in the last matching string to check if there is a match there
                     i = i - strLength + 1;
-                    if (!indexError(i, STR.length(), sequence.length())) {
-                       seqHash = getHashCount(sequence.substring(i, i + strLength));
-                    }
+                    seqHash = getHashCount(sequence.substring(i, i + strLength));
                 }
                 // If not shift string by one index
                 else {
